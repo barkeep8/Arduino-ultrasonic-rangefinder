@@ -3,7 +3,7 @@ Welcome to my code for a rangefinder with an 20x4 LCD screen,
 
 cabling and photos at: https://github.com/Jan--Henrik/Arduino-ultrasonic-rangefinder
 
-Parts: HC-SR04  ,  Arduino/clone  ,  a 20x4 display  ,  wires/breadboard
+Parts: HC-SR04  ,  Arduino/clone  ,  a 20x4 display  ,  wires/breadboard , IC/I2C/TWI/SP​​I Serial Interface Board Module
 
 Pin 11 to ECHO
 pin 12 to TRIG
