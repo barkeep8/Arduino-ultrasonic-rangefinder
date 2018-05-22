@@ -47,7 +47,7 @@ void setup()
  
    // LCD Size
 
-  lcd.begin(20,4);        
+  lcd.begin(16,2);        
   
   //In/Outputs
   
